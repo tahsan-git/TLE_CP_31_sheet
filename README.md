@@ -29,4 +29,4 @@ The goal is to practice and master competitive programming step-by-step, one lev
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/cp_31_sheet.git
+   git clone https://github.com/tahsan-git/TLE_CP_31_sheet.git
